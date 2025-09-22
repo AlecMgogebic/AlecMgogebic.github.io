@@ -33,7 +33,7 @@
         </div>
     </div>
     <footer>
-        <p>&copy; 2025 My Name. All rights reserved.</p>
+        <p>&copy; 2025 Alec Mount. All rights reserved.</p>
     </footer>
 </body>
 </html>
