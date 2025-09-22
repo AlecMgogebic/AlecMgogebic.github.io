@@ -58,8 +58,19 @@ ul.navbar > li:hover .dropdown {
     padding: 20px;
 }
 
+.left-column {
+    background-color: lightgray;
+}
+
+.right-column {
+    background-color: lightgreen;
+}
+
 footer {
     text-align: center;
     padding: 10px;
     background-color: lightblue;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
