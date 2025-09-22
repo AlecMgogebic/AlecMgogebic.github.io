@@ -5,8 +5,9 @@ body {
     padding:50px; 
 }
 
-h2 { 
-   display: inline; 
+.container h2 {
+    display: block;
+    margin-top: 0; 
 }
 
 nav {
