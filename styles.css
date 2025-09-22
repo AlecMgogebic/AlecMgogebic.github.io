@@ -5,6 +5,10 @@ body {
     padding:50px; 
 }
 
+h2 { 
+   display: block; 
+}
+
 nav {
     background-color: lightblue;
     position: fixed;
