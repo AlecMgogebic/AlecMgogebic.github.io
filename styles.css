@@ -69,6 +69,7 @@ ul.navbar > li:hover .dropdown {
 }
 
 footer {
+    margin-top: auto;
     text-align: center;
     padding: 10px;
     background-color: lightblue;
