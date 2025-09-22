@@ -7,8 +7,8 @@
 <body>
     <nav>
         <ul class="navbar">
-            <li><a href="Index.html">Home</a></li>
-            <li><a href="Hobbies.html">Hobbies</a>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="hobbies.html">Hobbies</a>
                 <ul class="dropdown">
                     <li><a href="hobbies.html#hobby1">Homelabbing</a></li>
                     <li><a href="hobbies.html#hobby2">Gaming</a></li>
